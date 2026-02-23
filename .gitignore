@@ -1,0 +1,7 @@
+# Ignorar dependências do Node
+nestjs-api/node_modules/
+nestjs-api/dist/
+
+# Ignorar arquivos de log e temporários
+test_log.txt
+nestjs-api/uploads/
